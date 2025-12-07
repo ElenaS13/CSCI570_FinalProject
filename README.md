@@ -23,9 +23,13 @@ We have created a wrapper script `efficient.sh` to compile/run the code as per p
 
 ```
 
-### 2. Basic Algorithm (TODO)
+### 2. Basic Algorithm
 
-Place instructions for the basic algorithm here once Person 2 finishes.
+**Usage:**
+```bash
+./basic.sh <input_file> <output_file>
 
 
+./basic.sh SampleTestCases/input1.txt output.txt
 
+```
